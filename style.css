@@ -1,0 +1,43 @@
+#canvas {
+    border: 0px solid pink;
+    background-color: black;
+    margin: 0px auto;
+    display: block;
+}
+
+body {
+  background-color: grey;
+}
+
+.options {
+  width: 200px;
+  border: 1px solid black;
+  display: inline;
+  margin: 10px 5px;
+  padding: 10px;
+  font-family: Tahoma;
+  font-size: 1.5em;
+  border-radius: 5px;
+}
+
+.on {
+  color: #245BFF;
+  background-color: #EDF1F5;
+}
+
+.off {
+  color: #B8B8B8;
+  background-color: black;
+}
+
+#instructions {
+  font-size: 1.2em;
+  color: #EDF1F5;
+  display: inline;
+  float: right;
+}
+
+#body-wrap {
+  width: 800px;
+  margin: 0px auto;
+}
